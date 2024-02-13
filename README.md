@@ -20,7 +20,7 @@ The project utilizes a publicly available SMS spam dataset, containing labeled S
 ## Installation
 - Clone the repository:
   ```
-  git clone https://github.com/your-username/sms-spam-detection.git
+  git clone https://github.com/AnkitSankhua/sms-spam-detection.git
   cd sms-spam-detection
   ```
 - Install the required dependencies:
